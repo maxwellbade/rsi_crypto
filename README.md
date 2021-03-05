@@ -5,6 +5,8 @@ https://medium.com/analytics-vidhya/predicting-xrp-ripple-cryptocurrency-price-w
 
 Charts from the code:
 
+<img width="1353" alt="Screen Shot 2021-02-24 at 10 37 15 AM" src="https://user-images.githubusercontent.com/18491142/110148797-e3812e00-7da2-11eb-8eaa-d9e8c4a792f9.png">
+
 <img width="1344" alt="Screen Shot 2021-03-05 at 10 44 13 AM" src="https://user-images.githubusercontent.com/18491142/110146392-2097f100-7da0-11eb-9a47-78a069cd1c34.png">
 
 <img width="1339" alt="Screen Shot 2021-03-05 at 10 44 47 AM" src="https://user-images.githubusercontent.com/18491142/110146416-2988c280-7da0-11eb-8032-a326f6c4b851.png">
